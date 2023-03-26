@@ -1,0 +1,9 @@
+.listaContainer {
+  list-style: none;
+  background-color: #f1f1f1;
+}
+
+.listaContent {
+  font-weight: bold;
+  color: #b4b4b4;
+}
